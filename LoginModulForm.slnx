@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LoginModulForm/LoginModulForm.csproj" Id="4214daf9-e1f2-435f-9874-a8ecdafdd427" />
+  <Project Path="uygulama/uygulama.vdproj" Type="Installer" />
+</Solution>
