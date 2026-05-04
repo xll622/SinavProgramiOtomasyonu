@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|c:\\users\\elif koyuncu\\onedrive\\m\u00FCzik\\masa\u00FCst\u00FC\\proje\\loginmodulform\\loginmodulform\\bolumyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\bolumyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\dersyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\dersyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\sinifyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\sinifyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\dersyonetimi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\dersyonetimi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\sinifyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\sinifyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\databaseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\yoneticimodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\yoneticimodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\yoneticimodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\yoneticimodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\kullaniciyonetimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\derslerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\derslerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\hocamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\hocamodul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\loginmodulform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4214DAF9-E1F2-435F-9874-A8ECDAFDD427}|LoginModulForm\\LoginModulForm.csproj|solutionrelative:loginmodulform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YoneticiModul.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\YoneticiModul.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\YoneticiModul.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\YoneticiModul.cs",
+              "RelativeToolTip": "LoginModulForm\\YoneticiModul.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:51:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SinifYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\SinifYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\SinifYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\SinifYonetimi.cs",
+              "RelativeToolTip": "LoginModulForm\\SinifYonetimi.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:45:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SinifYonetimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\SinifYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\SinifYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\SinifYonetimi.cs [Design]",
+              "RelativeToolTip": "LoginModulForm\\SinifYonetimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T11:43:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KullaniciYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\KullaniciYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\KullaniciYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\KullaniciYonetimi.cs",
+              "RelativeToolTip": "LoginModulForm\\KullaniciYonetimi.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywD4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:13:42.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DersYonetimi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DersYonetimi.Designer.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\DersYonetimi.Designer.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DersYonetimi.Designer.cs",
+              "RelativeToolTip": "LoginModulForm\\DersYonetimi.Designer.cs",
+              "ViewState": "AgIAANYCAAAAAAAAAAAAAOcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T10:18:09.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DerslerClass.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DerslerClass.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\DerslerClass.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DerslerClass.cs",
+              "RelativeToolTip": "LoginModulForm\\DerslerClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:41:04.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HocaModul.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\HocaModul.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\HocaModul.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\HocaModul.cs [Design]",
+              "RelativeToolTip": "LoginModulForm\\HocaModul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:37:58.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YoneticiModul.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\YoneticiModul.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\YoneticiModul.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\YoneticiModul.cs [Design]",
+              "RelativeToolTip": "LoginModulForm\\YoneticiModul.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T06:26:53.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DataBaseClass.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\DataBaseClass.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DataBaseClass.cs",
+              "RelativeToolTip": "LoginModulForm\\DataBaseClass.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:39:15.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BolumYonetimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\BolumYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\BolumYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\BolumYonetimi.cs [Design]",
+              "RelativeToolTip": "LoginModulForm\\BolumYonetimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:39:15.615Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DersYonetimi.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DersYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\DersYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\DersYonetimi.cs",
+              "RelativeToolTip": "LoginModulForm\\DersYonetimi.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:18:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KullaniciYonetimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\KullaniciYonetimi.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\KullaniciYonetimi.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\KullaniciYonetimi.cs [Design]",
+              "RelativeToolTip": "LoginModulForm\\KullaniciYonetimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T10:29:34.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\Program.cs",
+              "RelativeDocumentMoniker": "LoginModulForm\\Program.cs",
+              "ToolTip": "C:\\Users\\Elif Koyuncu\\OneDrive\\M\u00FCzik\\Masa\u00FCst\u00FC\\Proje\\LoginModulForm\\LoginModulForm\\Program.cs",
+              "RelativeToolTip": "LoginModulForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:12:28.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
