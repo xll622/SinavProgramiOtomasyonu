@@ -82,6 +82,12 @@
     </Compile>
     <Compile Include="DataBaseClass.cs" />
     <Compile Include="DerslerClass.cs" />
+    <Compile Include="DerslikAraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DerslikAraForm.Designer.cs">
+      <DependentUpon>DerslikAraForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="DersYonetimi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,6 +99,12 @@
     </Compile>
     <Compile Include="DerslikYonetimi.Designer.cs">
       <DependentUpon>DerslikYonetimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HocaDersler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocaDersler.Designer.cs">
+      <DependentUpon>HocaDersler.cs</DependentUpon>
     </Compile>
     <Compile Include="HocaModul.cs">
       <SubType>Form</SubType>
@@ -120,7 +132,32 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SinavProgramiMotoru.cs" />
+    <Compile Include="SinavProgramiOlustur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SinavProgramiOlustur.Designer.cs">
+      <DependentUpon>SinavProgramiOlustur.cs</DependentUpon>
+    </Compile>
     <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="TakvimZamanDilimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TakvimZamanDilimi.Designer.cs">
+      <DependentUpon>TakvimZamanDilimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TakvimZamanDilimiAraForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TakvimZamanDilimiAraForm.Designer.cs">
+      <DependentUpon>TakvimZamanDilimiAraForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TumProgramlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TumProgramlar.Designer.cs">
+      <DependentUpon>TumProgramlar.cs</DependentUpon>
+    </Compile>
     <Compile Include="YoneticiModul.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -133,11 +170,17 @@
     <EmbeddedResource Include="BolumYonetimi.resx">
       <DependentUpon>BolumYonetimi.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="DerslikAraForm.resx">
+      <DependentUpon>DerslikAraForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="DersYonetimi.resx">
       <DependentUpon>DersYonetimi.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DerslikYonetimi.resx">
       <DependentUpon>DerslikYonetimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocaDersler.resx">
+      <DependentUpon>HocaDersler.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="HocaModul.resx">
       <DependentUpon>HocaModul.cs</DependentUpon>
@@ -161,6 +204,18 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="SinavProgramiOlustur.resx">
+      <DependentUpon>SinavProgramiOlustur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TakvimZamanDilimi.resx">
+      <DependentUpon>TakvimZamanDilimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TakvimZamanDilimiAraForm.resx">
+      <DependentUpon>TakvimZamanDilimiAraForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TumProgramlar.resx">
+      <DependentUpon>TumProgramlar.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="YoneticiModul.resx">
       <DependentUpon>YoneticiModul.cs</DependentUpon>
     </EmbeddedResource>
