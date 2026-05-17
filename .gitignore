@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+/LoginModulForm/YoneticiModul.cs
+/LoginModulForm/YoneticiModul.Designer.cs
+/LoginModulForm/YoneticiModul.resx
