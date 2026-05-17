@@ -33,6 +33,11 @@ namespace LoginModulForm
             this.Hide();
         }
 
-       
+        private void btn_programım_Click(object sender, EventArgs e)
+        {
+            HocaProgramim hp = new HocaProgramim(gelenBolumID);
+            hp.Show();
+            this.Hide();
+        }
     }
 }

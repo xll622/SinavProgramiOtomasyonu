@@ -43,7 +43,7 @@
             this.btn_programolustur.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)), true);
             this.btn_programolustur.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btn_programolustur.Location = new System.Drawing.Point(395, 122);
-            this.btn_programolustur.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_programolustur.Margin = new System.Windows.Forms.Padding(4);
             this.btn_programolustur.Name = "btn_programolustur";
             this.btn_programolustur.Size = new System.Drawing.Size(317, 86);
             this.btn_programolustur.TabIndex = 9;
@@ -60,12 +60,13 @@
             this.btn_programım.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)), true);
             this.btn_programım.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btn_programım.Location = new System.Drawing.Point(201, 254);
-            this.btn_programım.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_programım.Margin = new System.Windows.Forms.Padding(4);
             this.btn_programım.Name = "btn_programım";
             this.btn_programım.Size = new System.Drawing.Size(317, 86);
             this.btn_programım.TabIndex = 8;
             this.btn_programım.Text = "Programım";
             this.btn_programım.UseVisualStyleBackColor = false;
+            this.btn_programım.Click += new System.EventHandler(this.btn_programım_Click);
             // 
             // btn_derslerim
             // 
@@ -76,7 +77,7 @@
             this.btn_derslerim.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)), true);
             this.btn_derslerim.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.btn_derslerim.Location = new System.Drawing.Point(23, 122);
-            this.btn_derslerim.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_derslerim.Margin = new System.Windows.Forms.Padding(4);
             this.btn_derslerim.Name = "btn_derslerim";
             this.btn_derslerim.Size = new System.Drawing.Size(317, 86);
             this.btn_derslerim.TabIndex = 7;
@@ -95,7 +96,7 @@
             this.Controls.Add(this.btn_programım);
             this.Controls.Add(this.btn_derslerim);
             this.DoubleBuffered = true;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "HocaModul";
             this.ResumeLayout(false);
 

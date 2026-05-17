@@ -318,5 +318,12 @@ namespace LoginModulForm
             cmb_programVersiyon.SelectedIndex = -1;
             lbl_durum.Text = "Durum: Ekran temizlendi.";
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            HocaModul frm = new HocaModul(gelenBolumID);
+            frm.Show();
+            this.Hide();
+        }
     }
 }

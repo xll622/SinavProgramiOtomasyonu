@@ -40,6 +40,7 @@
             this.lbl_durum = new System.Windows.Forms.Label();
             this.lbl_takvim = new System.Windows.Forms.Label();
             this.lbl_program = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView_program)).BeginInit();
             this.SuspendLayout();
             // 
@@ -162,11 +163,22 @@
             this.lbl_program.TabIndex = 11;
             this.lbl_program.Text = "Program Versiyonu:";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(800, 13);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(64, 16);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "Anasayfa";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
+            // 
             // SinavProgramiOlustur
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(961, 652);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.lbl_program);
             this.Controls.Add(this.lbl_takvim);
             this.Controls.Add(this.lbl_durum);
@@ -202,5 +214,6 @@
         private System.Windows.Forms.Label lbl_durum;
         private System.Windows.Forms.Label lbl_takvim;
         private System.Windows.Forms.Label lbl_program;
+        private System.Windows.Forms.Label label1;
     }
 }

@@ -112,6 +112,12 @@
     <Compile Include="HocaModul.Designer.cs">
       <DependentUpon>HocaModul.cs</DependentUpon>
     </Compile>
+    <Compile Include="HocaProgramim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HocaProgramim.Designer.cs">
+      <DependentUpon>HocaProgramim.cs</DependentUpon>
+    </Compile>
     <Compile Include="KullaniciArama.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -184,6 +190,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="HocaModul.resx">
       <DependentUpon>HocaModul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HocaProgramim.resx">
+      <DependentUpon>HocaProgramim.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="KullaniciArama.resx">
       <DependentUpon>KullaniciArama.cs</DependentUpon>
